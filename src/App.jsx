@@ -28,10 +28,7 @@ setResult(Number(num1)/Number(num2));
   }
   return (
     <div className="calculator">
-     <h1>Hello Queen bee</h1>
-     <p>okay now we are going to be testing what we can do okay but it is going to be trial and error! okay first lets take in numbers and ddo the calculator</p>
-    
-    
+     
     <input 
     type="number"
     value={num1}
